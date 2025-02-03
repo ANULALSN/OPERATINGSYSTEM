@@ -1,0 +1,36 @@
+1. Producer
+2. Consumer
+3. Exit
+Enter your choice: 1
+Enter an item: 23
+Produced item: 23
+Enter your choice: 1
+Enter an item: 45
+Produced item: 45
+Enter your choice: 2
+Consumed item: 23
+Enter your choice: 2
+Consumed item: 45
+Enter your choice: 2
+Buffer is empty! Cannot consume.
+Enter your choice: 67
+Invalid choice!
+Enter your choice: 1       
+Enter an item: 67
+Produced item: 67
+Enter your choice: 1 
+Enter an item: 44
+Produced item: 44
+Enter your choice: 1
+Enter an item: 67
+Produced item: 67
+Enter your choice: 1
+Enter an item: 33
+Produced item: 33
+Enter your choice: 1
+Enter an item: 55
+Produced item: 55
+Enter your choice: 1
+Buffer is full! Cannot produce.
+Enter your choice: ^C
+oem@DEVAGIRI:~/OPERATI
