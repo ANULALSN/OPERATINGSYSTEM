@@ -1,0 +1,33 @@
+./a.out ls -l
+total 100
+-rw-rw-r-- 1 oem oem   535 Feb  3 10:34  1_FORK.c
+-rw-rw-r-- 1 oem oem  2588 Jan 21 10:47  2_FCFS.c
+-rw-rw-r-- 1 oem oem  2734 Jan 27 14:30  3_SJF.c
+-rw-rw-r-- 1 oem oem  2924 Jan 27 14:41  4_PRIORITYSCH.c
+-rw-rw-r-- 1 oem oem  2047 Feb  3 10:20  5_PRODUCERCON.c
+-rwxrwxr-x 1 oem oem 17000 Feb  3 10:34  a.out
+-rw-rw-r-- 1 oem oem 54103 Jan 21 10:17 'os lab.pdf'
+drwxrwxr-x 2 oem oem  4096 Feb  3 10:25  OUTPUT
+/n Process creation completed
+oem@DEVAGIRI:~/OPERATING SYSTEM$ ./a.out pwd
+/home/oem/OPERATING SYSTEM
+/n Process creation completed
+oem@DEVAGIRI:~/OPERATING SYSTEM$ ./a.out mkdir
+mkdir: missing operand
+Try 'mkdir --help' for more information.
+/n Process creation completed
+oem@DEVAGIRI:~/OPERATING SYSTEM$ ./a.out mkdir hello
+/n Process creation completed
+oem@DEVAGIRI:~/OPERATING SYSTEM$ ./a.out ls -l
+total 104
+-rw-rw-r-- 1 oem oem   535 Feb  3 10:34  1_FORK.c
+-rw-rw-r-- 1 oem oem  2588 Jan 21 10:47  2_FCFS.c
+-rw-rw-r-- 1 oem oem  2734 Jan 27 14:30  3_SJF.c
+-rw-rw-r-- 1 oem oem  2924 Jan 27 14:41  4_PRIORITYSCH.c
+-rw-rw-r-- 1 oem oem  2047 Feb  3 10:20  5_PRODUCERCON.c
+-rwxrwxr-x 1 oem oem 17000 Feb  3 10:34  a.out
+drwxrwxr-x 2 oem oem  4096 Feb  3 10:37  hello
+-rw-rw-r-- 1 oem oem 54103 Jan 21 10:17 'os lab.pdf'
+drwxrwxr-x 2 oem oem  4096 Feb  3 10:25  OUTPUT
+/n Process creation completed
+
